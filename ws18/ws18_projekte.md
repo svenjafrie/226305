@@ -18,6 +18,11 @@ Team (Kürzel reicht)
 Link auf github-Datei  
 
 
+Nestle / Lebensmittellobby
+sf095, ls129, kw070, eh035, lh085
+https://github.com/LaraSchue/NetzwerkeNestle
+
+
 
 
 
